@@ -1,2 +1,2 @@
-# BlogPage
-A blogging website
+# iCode
+A platform for getting started with coding, web development and blogging.
